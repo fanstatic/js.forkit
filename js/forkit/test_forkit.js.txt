@@ -1,0 +1,10 @@
+How to use?
+===========
+
+
+You can import ``forkit`` from ``js.forkit`` and ``need`` it where you want
+these resources to be included on a page::
+
+  >>> from js.forkit import forkit
+  >>> forkit.need()
+
